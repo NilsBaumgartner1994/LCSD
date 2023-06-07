@@ -1,0 +1,8 @@
+ArgoUML-0.26Beta-Unified 2,,,
+ID,FileName,Package,DataClumps
+L55331,src/org/argouml/cognitive/ResolvedCritic.java,app,1
+L60224,src/org/argouml/kernel/ProjectImpl.java,app,1
+L45120,src/org/argouml/ui/TabResults.java,app,1
+L12339,src/org/argouml/uml/diagram/sequence/SequenceDiagramGraphModel.java,app,1
+L23212,src/org/argouml/uml/diagram/sequence/SequenceDiagramGraphModel.java,app,1
+L23346,src/org/argouml/uml/diagram/sequence/ui/FigActivation.java,app,1

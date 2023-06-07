@@ -1,0 +1,12 @@
+<Info type="Parameters" method1="smellyMethod"  method2="method2" location="temp:///src/dataclumps/AnonymousClass.java  &amp; temp:///src/dataclumps/AnonymousClass.java" ></Info>
+<Info type="Fields" fields="PsiField:fieldsString , PsiField:fieldsX , PsiField:fieldsY" location="temp:///src/dataclumps/SimpleFields.java  &amp; temp:///src/dataclumps/SimpleFields.java" ></Info>
+<Info type="Parameters" method1="outMethod"  method2="inMethod" location="temp:///src/dataclumps/InnerClass.java  &amp; temp:///src/dataclumps/InnerClass.java" ></Info>
+<Info type="Parameters" method1="inMethod"  method2="outMethod" location="temp:///src/dataclumps/InnerClass.java  &amp; temp:///src/dataclumps/InnerClass.java" ></Info>
+<Info type="Parameters" method1="smellyMethod1"  method2="smellyMethod2" location="temp:///src/dataclumps/SimpleParameters.java  &amp; temp:///src/dataclumps/SimpleParameters.java" ></Info>
+<Info type="Parameters" method1="smellyMethod2"  method2="smellyMethod1" location="temp:///src/dataclumps/SimpleParameters.java  &amp; temp:///src/dataclumps/SimpleParameters.java" ></Info>
+<Info type="Parameters" method1="aSmellyMethod1"  method2="aSmellyMethod2" location="temp:///src/dataclumps/InterfacePositive.java  &amp; temp:///src/dataclumps/InterfacePositive.java" ></Info>
+<Info type="Parameters" method1="aSmellyMethod2"  method2="aSmellyMethod1" location="temp:///src/dataclumps/InterfacePositive.java  &amp; temp:///src/dataclumps/InterfacePositive.java" ></Info>
+<Info type="Parameters" method1="smellyParent"  method2="smellyChild" location="temp:///src/dataclumps/Polymorphism.java  &amp; temp:///src/dataclumps/Polymorphism.java" ></Info>
+<Info type="Parameters" method1="smellyChild"  method2="smellyParent" location="temp:///src/dataclumps/Polymorphism.java  &amp; temp:///src/dataclumps/Polymorphism.java" ></Info>
+<Info type="Parameters" method1="someSmellyMethod1"  method2="anotherSmelly" location="temp:///src/dataclumps/SameClass.java  &amp; temp:///src/dataclumps/SameClass.java" ></Info>
+<Info type="Parameters" method1="anotherSmelly"  method2="someSmellyMethod1" location="temp:///src/dataclumps/SameClass.java  &amp; temp:///src/dataclumps/SameClass.java" ></Info>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="lib" path="build/idea-sandbox/plugins/code-smells-plugin/lib/apiguardian-api-1.1.0.jar"/>
+	<classpathentry kind="lib" path="build/idea-sandbox/plugins/code-smells-plugin/lib/code-smells-plugin-0.0.1.jar"/>
+	<classpathentry kind="lib" path="build/idea-sandbox/plugins/code-smells-plugin/lib/junit-jupiter-5.7.0.jar"/>
+	<classpathentry kind="lib" path="build/idea-sandbox/plugins/code-smells-plugin/lib/junit-jupiter-api-5.7.0.jar"/>
+	<classpathentry kind="lib" path="build/idea-sandbox/plugins/code-smells-plugin/lib/junit-jupiter-engine-5.7.0.jar"/>
+	<classpathentry kind="lib" path="build/idea-sandbox/plugins/code-smells-plugin/lib/junit-jupiter-params-5.7.0.jar"/>
+	<classpathentry kind="lib" path="build/idea-sandbox/plugins/code-smells-plugin/lib/junit-platform-commons-1.7.0.jar"/>
+	<classpathentry kind="lib" path="build/idea-sandbox/plugins/code-smells-plugin/lib/junit-platform-engine-1.7.0.jar"/>
+	<classpathentry kind="lib" path="build/idea-sandbox/plugins/code-smells-plugin/lib/opentest4j-1.2.0.jar"/>
+	<classpathentry kind="lib" path="build/libs/code-smells-plugin-0.0.1.jar"/>
+	<classpathentry kind="lib" path="build/libsSearchableOptions/lib/searchableOptions-0.0.1.jar"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="build/classes/java/main"/>
+</classpath>

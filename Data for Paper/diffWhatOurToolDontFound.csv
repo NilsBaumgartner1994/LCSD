@@ -1,0 +1,8 @@
+ArgoUML-0.26Beta-Unified 2,,,
+ID,FileName,Package,DataClumps
+58,src/org/argouml/cognitive/ResolvedCritic.java,app,1,0,0,0,0,0,39,127,141,141,0
+139,src/org/argouml/kernel/ProjectImpl.java,app,1,14,1,2,1,11,222,185,753,753,5
+557,src/org/argouml/ui/ProfileSelectionTab.java,app,1,14,1,0,1,11,64,104,253,253,2
+585,src/org/argouml/ui/TabResults.java,app,1,2,0,7,0,0,42,134,235,235,0
+786,src/org/argouml/uml/diagram/sequence/SequenceDiagramGraphModel.java,app,1,33,0,0,0,32,57,122,352,352,1
+814,src/org/argouml/uml/diagram/sequence/ui/FigActivation.java,app,1,0,0,0,0,0,10,39,34,34,0
